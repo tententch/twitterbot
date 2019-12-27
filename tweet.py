@@ -5,8 +5,8 @@ import random
 
 
 def main():
-            auth = tweepy.OAuthHandler("GI3TbwV8FasjwxnoazzTvjeH7", "L6uq4GLNhBb94SkuQ1av0nPojfbcNK1cY6edNDwsUPVPbTZhu5")
-            auth.set_access_token("2152561794-MbnoTmQ0ec3FIK8z3JYlFaEZC3iXwV6Ty6UroQZ", "i7UrWbOqBKXwwh7AJTebSm8carGz4iKOQPYEl5oyfcPnS")
+            auth = tweepy.OAuthHandler("CONSUMER_KEY", "CONSUMER_SECRET")
+            auth.set_access_token("ACCESS_TOKEN", "ACCESS_TOKEN_SECRET")
             api = tweepy.API(auth)
     
             box = []
