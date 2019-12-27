@@ -48,6 +48,7 @@ AI คิด content สำหรับทวิตเตอร์ด้วย R
  หมายถึงบรรทัดนี้
  
  auth = tweepy.OAuthHandler("CONSUMER_KEY", "CONSUMER_SECRET")
+ 
  auth.set_access_token("ACCESS_TOKEN", "ACCESS_TOKEN_SECRET")
 
 
