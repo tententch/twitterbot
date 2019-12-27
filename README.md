@@ -52,11 +52,23 @@ AI คิด content สำหรับทวิตเตอร์ด้วย R
  
  ========================
  tweepy
+ 
+ 
  textgenrnn
+ 
+ 
  keras
+ 
+ 
  h5py
+ 
+ 
  scikit-learn
+ 
+ 
  tqdm
+ 
+ 
  tensorflow
  
  ========================
